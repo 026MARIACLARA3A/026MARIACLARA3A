@@ -1,8 +1,8 @@
-### Hi there 👋
-
-<!--
+### Boas vindas ao meu perfil
+- Meu nome é Maria Clara Lima 
+### Voce pode entrar em contato comigo :mailbox
 **026MARIACLARA3A/026MARIACLARA3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+00001105137430SP@al.educacao.sp.gov.br
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
+!{}(https://media.tenor.com/TEjFpULDuMsAAAAM/hug-friend.gif)
